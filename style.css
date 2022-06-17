@@ -13,6 +13,12 @@ button {
     outline: none!important;
 }
 
+footer a {
+    font-size: 17px;
+    color: #FFFFFF!important;
+}
+
+
 a:hover {
     text-decoration: none;
     cursor: pointer;
@@ -325,7 +331,7 @@ a:hover {
 .nav > li {
     float: left;
     margin-top: 4px;
-    font-size: 16px;
+    font-size: 17px;
 }
 
 .navbar-nav .open .dropdown-menu > li > a {
