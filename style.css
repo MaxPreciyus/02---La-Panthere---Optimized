@@ -1,3 +1,13 @@
+/* AJOUTS PERSONNELS */
+
+.keywords {
+    color: #FFFFFF;
+}
+
+
+
+/* FIN DES AJOUTS PERSONNELS */
+
 body {
     margin: 0;
     padding: 0;
@@ -97,7 +107,6 @@ a:hover {
 }
 
 .texture-paper::before {
-    background: url("img/texture-paper.png");
     background-size: 280px 280px;
 }
 
@@ -139,7 +148,7 @@ a:hover {
 .d-bloc h5 a,
 .d-bloc h6 a,
 .d-bloc p a {
-    color: rgba(255, 255, 255, .6);
+    color: #FFFFFF;
 }
 
 .d-bloc .a-btn:hover,
@@ -733,7 +742,7 @@ h1 {
 }
 
 h4 {
-    color: #333333!important;
+    color: #FFFFFF!important;
 }
 
 .icons {
@@ -777,11 +786,11 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #F3976C;
+    background-color: #BB540F;
 }
 
 .tc-orange {
-    color: #f3976c!important;
+    color: #FFFFFF!important;
 }
 
 .tc-white {
@@ -789,12 +798,12 @@ h4 {
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
+    background: #BB540F;
     color: #FFFFFF!important;
 }
 
 .btn-atomic-tangerine:hover {
-    background: #c27956!important;
+    background: #264244!important;
     color: #FFFFFF!important;
 }
 
