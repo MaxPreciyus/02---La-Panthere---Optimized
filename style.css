@@ -660,7 +660,6 @@ h1,
 h2,
 h3,
 h4,
-h5,
 h6,
 p,
 label,
@@ -669,6 +668,9 @@ a {
     font-family: "helvetica";
     font-weight: 400;
     color: black!important;
+}
+h5 {
+    color: white;
 }
 
 .container {
