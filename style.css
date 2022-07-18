@@ -725,7 +725,11 @@ p {
     margin: 20px auto 20px auto;
 }
 .social a {
-    margin: auto;
+    display: inline-block;     
+    position: relative;    
+    z-index: 1;     
+    padding: 1em;     
+    margin: -1em; 
 }
 .flex{
     display: flex;
