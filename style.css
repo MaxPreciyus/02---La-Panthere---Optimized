@@ -26,8 +26,10 @@ button {
 footer a {
     font-size: 17px;
     color: #FFFFFF!important;
-    padding-top: 15px; 
-    padding-bottom: 15px;
+    padding: 10px 0 10px 0; 
+}
+footer li {
+    margin: 1em 0 1em 0;
 }
 
 
@@ -728,8 +730,7 @@ p {
     display: inline-block;     
     position: relative;    
     z-index: 1;     
-    padding: 1em;     
-    margin: -1em; 
+    padding: 1em;
 }
 .flex{
     display: flex;
