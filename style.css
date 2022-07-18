@@ -716,7 +716,12 @@ p {
 
 .social {
     max-width: 400px;
-    margin: auto auto auto auto;
+    margin: 20px auto 20px auto;
+    padding: 5px 5px 5px 5px;
+}
+.flex{
+    display: flex;
+    justify-content: center;
 }
 
 h2 {
@@ -1055,3 +1060,8 @@ h4 {
         text-align: center;
     }
 }
+.flex{
+    display: flex;
+    justify-content: center;
+}
+
